@@ -1,0 +1,17 @@
+{
+    "name": "parmonov98/php-enum",
+    "description": "usage enum",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Parmonov98\\PhpEnum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "murod parmonov",
+            "email": "parmonov98@yandex.ru"
+        }
+    ],
+    "require": {}
+}
